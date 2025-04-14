@@ -27,39 +27,36 @@
 ---
 
 ### 🔥 Projects I'm Proud Of
-- **📱 [Loan Application Management System](https://github.com/yourusername/loan-app)** – A complete MERN stack application for managing loan records.
-- **👥 [Community Yogasanas Tracker](https://github.com/yourusername/yoga-tracker)** – Tracks group asana counts and difficulty levels.
-- **🎬 [Facebook Clone UI](https://github.com/yourusername/facebook-clone)** – A clone of Facebook's core UI using React.
+- **📱 [Loan Application Management System](https://github.com/Bhargavi432-max/B43_WEB_196_Web-Project-191)** – A complete MERN stack application for managing loan records.
+- **👥 [Community Yogasanas Tracker](https://github.com/Naveen05-lang/NBJ-Hack)** – Tracks group asana counts and difficulty levels.
+- **🎬 [Facebook Clone UI](https://github.com/imRahul05/masai_WEB205_Unit_3_Facebook_clone)** – A clone of Facebook's core UI using React.
 - **📹 Video Puzzle Game (Work Project)** – Developed puzzle logic and UI in React + Redux at T-Machine.
 
 ---
 
 ### 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhargavithanniru/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhargavi-thanniru-252302248/)
 - 📫 Email: bhargavi.thanniru@gmail.com
-- 🧑‍💻 Portfolio: Coming Soon!
+- 🧑‍💻 [Portfolio](https://bhargavithanniru-portofolio.netlify.app/)
 
 ---
 
 ### ⚡ Fun Facts
-- 🐾 I have a Labrador puppy!
 - 🌿 I maintain a backyard garden in Andhra Pradesh.
 - ✈️ I love traveling and handicrafting.
-- 📖 I enjoy love-mystery novels with strong female leads.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavithanniru&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhargavi432-max&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavithanniru&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi432-max&theme=radical" />
 </p>
 
 ---
 
 ### 🧠 Currently Working On:
-- Building my **backend portfolio** and contributing to open-source!
 - Exploring **cloud services** and improving my deployment skills.
 
 ---
